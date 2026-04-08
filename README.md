@@ -131,3 +131,5 @@ Os resultados de AC e MQ são exibidos tanto em seus valores decimais em si, qua
 ---
 
 ### 9. Vídeo explicativo da solução
+
+[Vídeo explicativo](https://youtu.be/L9AIHr7aobU)
