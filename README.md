@@ -6,7 +6,7 @@ Esta CPU de 8 bits foi desenvolvida no simulador Digital seguindo a arquitetura 
 
 O resultado é uma máquina capaz de executar programas armazenados em memória, realizando operações aritméticas e lógicas com acumulação de resultados entre instruções. O ciclo de execução é dividido em quatro fases fixas, cadenciadas por um ring counter que funciona como o relógio interno da CPU.
 
-![CPU de 8 bits](CPU.png)
+![CPU de 8 bits](cpu.png)
 
 ---
 
